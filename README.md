@@ -189,7 +189,7 @@ As colunas `country_off` e `city_off` registram em quais países e cidades deter
 
 Primeira versão após a consolidação das três tabelas originais (`transfer_ins`, `transfer_outs`, `pix_movements`) em `financial_transactions`.
 
-![alt text](image-1.png)
+![alt text](./img/image-421.png)
 
 ### Versão Final — Modelo completo
 
@@ -202,7 +202,7 @@ Adição da tabela `actions_type` e enriquecimento de `financial_transactions` c
 ## 🗺 Diagrama Final
 
 
-![alt text](image.png)
+![alt text](./img/image.png)
 
 
 ---
